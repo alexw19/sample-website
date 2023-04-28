@@ -88,7 +88,7 @@ body {
 
 .banner {
     padding-bottom: 220px;
-    background-image: url('../../assets/images/banner.png');
+    background-image: url('../public/banner.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -393,7 +393,7 @@ body {
 
 /* Carousel Section */
 .carousel-section {
-    background-image: url('../../assets/images/testimonial-bg.png');
+    background-image: url('../public/testimonial-bg.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -737,7 +737,7 @@ footer img {
             rgba(10, 0, 45, 0.6) 38%,
             rgba(13, 9, 47, 0.5) 59%,
 
-            rgba(18, 16, 55, 0.9) 100%), url('../../assets/images/digitalbanner.png');
+            rgba(18, 16, 55, 0.9) 100%), url('../public/digitalbanner.png');
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -887,7 +887,7 @@ footer img {
 /* Contact Us section */
 
 .banner-contactus {
-    background: url('../../assets/images/contactus-bg.jpg');
+    background: url('../public/contactus-bg.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -929,7 +929,7 @@ footer img {
 
 /* About Us section */
 .banner-aboutus {
-    background: url('../../assets/images/aboutus.png');
+    background: url('../public/aboutus.png');
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -973,7 +973,7 @@ footer img {
 }
 
 .customers {
-    background: url('../../assets/images/about-us-cust.png');
+    background: url('../public/about-us-cust.png');
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;

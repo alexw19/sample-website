@@ -1,8 +1,9 @@
 import Layout from '../components/Layout'
 
+
 export default function Home() {
   return (
-    <Layout>
+    <div>
       <section class="banner">
         <div class="container">
           <div class="row banner-content">
@@ -373,6 +374,6 @@ export default function Home() {
                 </div>
               </div>
             </section>
-    </Layout>
+    </div>
   );
 }

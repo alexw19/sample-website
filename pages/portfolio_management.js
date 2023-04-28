@@ -1,6 +1,6 @@
 import Layout from '../components/Layout'
 
-const CyberSecurity = () => {
+const PortfolioManagement = () => {
     return (
         <Layout>
             <section class="banner-digital-section ">
@@ -8,11 +8,11 @@ const CyberSecurity = () => {
                     <div class="row banner-content banner-digital">
                         <div class="banner-degital-details text-center">
                             <div class="col-6 offset-3 degital-details ">
-                                <h1 class="my-lg-3">Cyber Security</h1>
-                                <p class="">Enhance your organisation against cyber threats by helping you detect
-                                    & reduce risk in your business ecosystem.
+                                <h1 class="my-lg-3">Portfolio Management</h1>
+                                <p class="">Evolving tech team helps to manage the large-scale initiatives and
+                                    ensure the program to execute scheduled time and budget.
                                 </p>
-                                <h6>Home <span></span> Cyber Security</h6>
+                                <h6>Home <span></span>Portfolio Management</h6>
                             </div>
                         </div>
                     </div>
@@ -29,15 +29,13 @@ const CyberSecurity = () => {
 
                     <div class="col-lg-6 d-flex-acenter position-relative">
                         <div class="wow fadeInRightBig infinite" >
-                            <span class="d-block my-lg-3">Cyber Security</span>
-                            <h1>THE DEFINITION OF CYBER SECURITY</h1>
-                            <h3>[What is Cyber Security?]</h3>
-                            <p class="mb-10 width-75"> Cyber Security Consultants is using trending strategy and design, its help to
-                                improve your detection and response capabilities. It will protect the company data, websites,
-                                and web applications from hackers who seek to disrupt, delay or redirect the flow of data.
-                                By consult with Evolving tech, your business can recover from hackers
-                                and its give to you the confidence that comes from knowing your business
-                                is secure.</p>
+                            <span class="d-block my-lg-3">Portfolio Management</span>
+                            <h1>THE DEFINITION OF PORTFOLIO MANAGEMENT</h1>
+                            <h3>[What is PM?]</h3>
+                            <p class="mb-10 width-75">Portfolio Management is an important to manage the process to determine the
+                                value of organisation and help to achieve the strategic objectives as well as helps to know
+                                the balance across overall portfolio development projects and products. By evolving tech
+                                consulting team has been established the program management plans, process & tools.</p>
 
                         </div>
                         <div class="shape-1">
@@ -62,9 +60,8 @@ const CyberSecurity = () => {
                             <div class="section-grp p-1 ">
                                 <div class="text-center">
                                     <img src="/bulb.png" class="img-fluid my-2" alt=""/>
-                                        <h3>Strategy & Knowledge Transfer </h3>
-                                        <p>Enable to help you compete and innovate your business reaches point.
-                                            Update the day-to-day knowledge to the staffs.
+                                        <h3>Innovation</h3>
+                                        <p>Analyse creative ideas and evaluate the current investments then modifying your organisation environment.
                                         </p>
                                 </div>
                             </div>
@@ -72,28 +69,25 @@ const CyberSecurity = () => {
                         <div class="col-lg-1 arrow  wow fadeInUp infinite ">
                             <img src="/arrow.png" class="img-fulid" alt=""/>
                         </div>
-                        <div class="col-lg-3 col-md-6 my-md-2 wow fadeInUp infinite" >
+                        <div class="col-lg-3 col-md-6 my-md-2 wow fadeInUp infinite">
                             <div class="section-grp p-1">
                                 <div class="text-center">
                                     <img src="/bulb.png" class="img-fluid my-2" alt=""/>
-                                        <h3>Secure Program Design</h3>
-                                        <p>Direct work with you to create a cyber security framework and outlining the business scope,
-                                            assessing risk, defining tolerance levels, and prioritizing work.
+                                        <h3>Optimisation</h3>
+                                        <p>Develop the trending strategic process that allows to prioritise your projects then optimize the entire portfolio.
                                         </p>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-1 arrow  wow fadeInUp infinite" >
+                        <div class="col-lg-1 arrow  wow fadeInUp infinite">
                             <img src="/arrow.png" class="img-fulid" alt=""/>
                         </div>
                         <div class="col-lg-3 col-md-6 my-md-2  wow fadeInUp infinite">
                             <div class="section-grp p-1">
                                 <div class="text-center">
                                     <img src="/bulb.png" class="img-fluid my-2" alt=""/>
-                                        <h3>Security Controls & Compliance </h3>
-                                        <p>Advise the executive management and design procedures that adhere to the latest laws
-                                            and industry standards. Help to assess their clients about risk versus controls to comply
-                                            with Data Security Standards.
+                                        <h3>Delivery</h3>
+                                        <p>Generate the predictive reports for your projects and provide the successful delivery.
                                         </p>
                                 </div>
                             </div>
@@ -105,15 +99,12 @@ const CyberSecurity = () => {
             <section class="service">
                 <div class="container">
                     <div class="row pt-100 padd-10 align-items-end">
-                        <div class=" col-lg-4 wow fadeInLeftBig infinite" >
+                        <div class=" col-lg-4 wow fadeInLeftBig infinite">
                             <span class="d-block my-2">Latest Work</span>
                             <h1>We Served as your wish for success</h1>
                         </div>
                         <div class=" col-lg-8 wow fadeInRightBig infinite">
-                            <p>We develop and maintain your organisation security posture by using high level
-                                technologies to deliver dramatic and rapid improvements in security.
-                                You can get the hands-on support to implement the threat hunting changes
-                                and functions.
+                            <p>We bring the unique reports that has been tried and tested by the various portfolios. It ensures your service and maximizing the opportunity.
                             </p>
                         </div>
                     </div>
@@ -122,19 +113,19 @@ const CyberSecurity = () => {
                         <div class="services col-md-6 col-lg-4 py-3 py-lg-2       wow fadeInUp infinite">
                             <img src="/digital_img-1.png" class="img-fluid" alt="card-img"/>
                                 <div class="img-title">
-                                    <h3>Cyber Security</h3>
+                                    <h3>Portfolio Management</h3>
                                 </div>
                         </div>
                         <div class="services  col-md-6 col-lg-4 py-3  py-lg-2     wow fadeInUp infinite">
                             <img src="/digital_img_2.png" class="img-fluid" alt="card-img"/>
                                 <div class="img-title-1">
-                                    <h3>Cyber Security</h3>
+                                    <h3>Portfolio Management</h3>
                                 </div>
                         </div>
                         <div class="services  col-md-6  col-lg-4 py-3  py-lg-2      wow fadeInUp infinite">
                             <img src="/digital_img_3.png" class="img-fluid" alt="card-img"/>
                                 <div class="img-title">
-                                    <h3>Cyber Security</h3>
+                                    <h3>Portfolio Management</h3>
                                 </div>
                         </div>
 
@@ -145,4 +136,4 @@ const CyberSecurity = () => {
     )
 }
 
-export default CyberSecurity
+export default PortfolioManagement

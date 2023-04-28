@@ -4,63 +4,42 @@ import Dropdown from './Dropdown'
 
 const Header = () => {
     return (
-        <header className="p-3 bg-dark text-white">
-            <div className="container">
-                <div className="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
-                    <a
-                        href="#"
-                        className="d-flex align-items-center mb-2 mb-lg-0 text-white text-decoration-none"
-                    >
-                        {/* <Image src="/logo-01.png" alt="Your alt text" width={300} height={200} /> */}
-                    <img src="logo-01.png"></img>
-                    </a>
-
-                    <ul className="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
-                        <li>
-                            <a href="/" className="nav-link px-2 text-secondary">
-                                Home
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/about" className="nav-link px-2 text-white">
-                                About
-                            </a>
-                        </li>
-                        <li>
-                            <Dropdown />
-                        </li>
-                        <li>
-                            <a href="/blogs" className="nav-link px-2 text-white">
-                                Blogs
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/contact" className="nav-link px-2 text-white">
-                                Contact Us
-                            </a>
-                        </li>
-                    </ul>
-
-                    {/* <form className="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3">
-                        <input
-                            type="search"
-                            className="form-control form-control-dark"
-                            placeholder="Search..."
-                            aria-label="Search"
-                        />
-                    </form>
-
-                    <div className="text-end">
-                        <button type="button" className="btn btn-outline-light me-2">
-                            Login
+        <section class="common-header">
+            <div class="container p-0">
+                <nav class="navbar navbar-expand-lg navbar-dark nav-bg">
+                    <div class="container-fluid">
+                        <a class="navbar-brand" href="#">
+                            <img src="/logo-01.png" class="img-fluid logo width-40" alt="logo"/>
+                        </a>
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false"
+                            aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
                         </button>
-                        <button type="button" className="btn btn-warning">
-                            Sign-up
-                        </button>
-                    </div> */}
-                </div>
+                        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                            <ul class="navbar-nav">
+                                <li class="nav-item">
+                                    <a class="nav-link" aria-current="page" href="/">Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/about">About Us</a>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <Dropdown/>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/blogs">Blog</a>
+                                </li>
+                            </ul>
+                            <div class="">
+                                <a class="contactus-btn btn" href="/contact">Contact Us</a>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+
             </div>
-        </header>
+        </section>
     );
 };
 export default Header;
