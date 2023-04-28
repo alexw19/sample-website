@@ -1,0 +1,141 @@
+/**media Quries*/
+
+@media screen and (max-width:1025px) {
+    .arrow {
+        top: 36px;
+        left: -36px;
+    }
+}
+
+
+@media screen and (max-width:991px) {
+
+    .primary-btn {
+        padding: 6px 15px !important;
+    }
+
+    .logo {
+        width: 50% !important;
+    }
+
+    .width-40 {
+        width: 40%;
+    }
+
+    .arrow {
+        display: none;
+    }
+
+    .digital-trans {
+        margin-right: 0 !important;
+    }
+
+    .padd {
+        padding-right: 0 !important;
+        margin-left: 10px;
+
+    }
+
+    .padd-10 {
+        padding-top: 30px !important;
+    }
+
+    .img-title-1 {
+        width: 93.4%;
+    }
+
+    .img-title {
+        width: 93.4%;
+    }
+
+    .img-title1 {
+        width: 93.4%;
+    }
+
+    .img-title2 {
+        width: 93.4%;
+    }
+
+    .img-title3 {
+        width: 93.4%;
+    }
+
+    .mt0p-20 {
+        margin-top: 20px !important;
+        margin-bottom: 20px !important;
+
+    }
+
+    .shape,
+    .shape-1 {
+        display: none;
+    }
+
+    .quote1,
+    .quote2 {
+        display: none;
+    }
+
+    .slide-1 {
+        flex-direction: column-reverse;
+        text-align: center;
+    }
+
+    .carousel-content,
+    .names {
+        text-align: left;
+    }
+
+    .slide-img {
+        width: 50%;
+    }
+    .footer-logo {
+        display: none;
+    }
+    .btn-m{
+        margin-left: -6px;
+    }
+    .contactus-btn {  
+        padding: 8px 15px !important;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .width-75 {
+        width: 75% !important;
+    }
+}
+  
+@media screen and (max-width: 768px) {
+    .banner {
+        padding-bottom: 0px !important;
+    }
+
+    .banner-content {
+        flex-direction: column-reverse;
+    }
+
+    .banner-content img {
+        width: 100% !important;
+    }
+
+    .card-section {
+        position: unset;
+        padding-top: 30px;
+    }
+ 
+}
+
+@media screen and (max-width: 540px) {
+    .about-us-section .years{
+        width: 120px;
+        height: 120px;
+    }
+    .started{
+        justify-content: left;
+        margin-top: 20px;
+    }
+    .btn-customer{
+        padding: 8px !important;
+    }
+}
