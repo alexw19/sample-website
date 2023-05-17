@@ -20,8 +20,9 @@ const DigitalTransformation = () => {
             </section>
 
             <section class="digital-trans container-fluid">
-                <div class="row w-100">
-                    <div class="col-lg-6 pr-50 ps-0 padd">
+                <div class="row w-100 text-center">
+                    <h3>Coming Soon!</h3>
+                    {/* <div class="col-lg-6 pr-50 ps-0 padd">
                         <div class="wow fadeInLeftBig infinite" >
                             <img src="/2img.png" class="img-fluid" alt="card-img"/>
                         </div>
@@ -43,11 +44,11 @@ const DigitalTransformation = () => {
                         <div class="shape-1">
                             <img src="/shape.png" class="img-fluid" alt="card-img"/>
                         </div>
-                    </div>
+                    </div> */}
                 </div>
             </section>
 
-            <section class="container">
+            {/* <section class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-12 text-center wow fadeInUp infinite">
                         <div class="process-card-header text-center">
@@ -136,7 +137,7 @@ const DigitalTransformation = () => {
 
                     </div>
                 </div>
-            </section>
+            </section> */}
         </Layout>
     )
 }
