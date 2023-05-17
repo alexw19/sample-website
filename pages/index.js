@@ -282,7 +282,7 @@ export default function Home() {
                         </div>
                         <div class="card-body">
                           <h5 class="card-title">Email Address</h5>
-                          <p class="card-text">evolvingtech@gmail.com</p>
+                          <p class="card-text">info@evolvingtech.com</p>
                         </div>
                       </div>
                     </div>
