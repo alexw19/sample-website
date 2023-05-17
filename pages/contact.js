@@ -21,7 +21,7 @@ const Contact = () => {
                 <div class="container">
                     <div class="text-center contact-address py-4">
                         <div>
-                            <h1>We're The Largest Business Agency</h1>
+                            <h1>We're The Fastest Growing Agency</h1>
                         </div>
                         <div>
                             <p>It is a long established fact that a reader will be distracted by the
