@@ -5,7 +5,7 @@ const Footer = () => {
                 <img src="/logo-01.png" class="image-fluid footer-logo" alt="slide-img"/>
                     <div class="container position-relative">
                         <div class="row footer-content">
-                            <div class="col-lg-2 links">
+                            <div class="col-lg-3 links">
                                 <h3 class="my-md-3">Links</h3>
                                 <ul class="function-change">
                                     <a href="/" style={{ textDecoration: 'none' }}><li>Home</li></a>
@@ -35,7 +35,7 @@ const Footer = () => {
                                 </div>
                             </div> */}
 
-                            <div class="col-md-6 col-lg-3 ">
+                            <div class="col-md-6 col-lg-4 ">
                                 <h3 class="type-add">Solutions</h3>
                                 <ul class="bottom-text">
                                     <a href="/digital_transformation" style={{ textDecoration: 'none' }}><li>Digital Transformation</li></a>
@@ -43,7 +43,7 @@ const Footer = () => {
                                     <a href="/resource_staffing" style={{ textDecoration: 'none' }}><li>Resource & Staffing</li></a>
                                 </ul>
                             </div>
-                            <div class="my-md-2 col-md-6 col-lg-3">
+                            <div class="my-md-2 col-md-6 col-lg-4">
                                 <h3 class="list-function">Business Hours</h3>
                                 <p class="bottom-section">9 am - 5 pm</p>
 
@@ -67,7 +67,7 @@ const Footer = () => {
                             </div>
                         </div>
                         <div class="pt-20 text-center">
-                            <p>© Copyright Evolving Tech Solutions Private Limited 2022. All Rights Reserved.</p>
+                            <p>© Copyright Evolving Tech World Private Limited 2023. All Rights Reserved.</p>
                         </div>
                     </div>
             </footer>
