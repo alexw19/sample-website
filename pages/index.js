@@ -34,7 +34,7 @@ export default function Home() {
                     <img src="/time.png" alt="card-img" class="card-img-top img-fluid"/>
                   </div>
                   <div class="card-body">
-                    <h5 class="card-title">Save Your Time</h5>
+                    <h5 class="card-title">Save Time</h5>
                     <p class="card-text">We provide advising and support for business and
                       technology needs, now and into the future.</p>
                   </div>
@@ -49,8 +49,8 @@ export default function Home() {
                     <img src="/money.png" class="card-img-top img-fluid" alt="card-img"/>
                   </div>
                   <div class="card-body">
-                    <h5 class="card-title">Affordabble Price For You</h5>
-                    <p class="card-text">We provide advising and support for business and
+                    <h5 class="card-title">Affordable Pricing</h5>
+                    <p class="card-text">We provide support for business and
                       technology needs, now and into the future.</p>
                   </div>
                 </div>
@@ -120,17 +120,20 @@ export default function Home() {
               </div>
             </div>
           </div>
+          <div>
           <div class="row mt-50 mb-50">
-            <div class="services col-xl-3 col-md-6 py-3 py-lg-2">
-              <div>
-                <img src="Rectangle-11.png" class="w-100 img-fluid" alt="card-img"/>
-                  <div class="overlay"></div>
-                  <div class="img-title">
-                    <h3>Digital Transformation</h3>
-                  </div>
-              </div>
+            <div class="services col-xl-4 col-md-6 py-3 py-lg-2">
+              <a class="dropdown-item" href="digital_transformation">
+                <div>
+                  <img src="Rectangle-11.png" class="w-100 img-fluid" alt="card-img"/>
+                    <div class="overlay"></div>
+                    <div class="img-title">
+                      <h3>Digital Transformation</h3>
+                    </div>
+                </div>
+              </a>
             </div>
-            <div class="services col-xl-3 col-md-6 py-3 py-lg-2">
+            {/* <div >
               <div>
                 <img src="/Rectangle-12.png" class="w-100 image-fluid" alt="card-img"/>
                   <div class="overlay"></div>
@@ -138,26 +141,31 @@ export default function Home() {
                     <h3>Cyber Security</h3>
                   </div>
               </div>
+            </div> */}
+            <div class="services col-xl-4 col-md-6 py-3 py-lg-2">
+              <a class="dropdown-item" href="portfolio_management">
+                <div>
+                  <img src="/Rectangle-13.png" class="w-100 img-fluid" alt="card-img"/>
+                    <div class="overlay"></div>
+                    <div class="img-title2">
+                      <h3>Portfolio Management</h3>
+                    </div>
+                </div>
+              </a>
             </div>
-            <div class="services col-xl-3 col-md-6 py-3 py-lg-2">
-              <div>
-                <img src="/Rectangle-13.png" class="w-100 img-fluid" alt="card-img"/>
-                  <div class="overlay"></div>
-                  <div class="img-title2">
-                    <h3>Portfolio Management</h3>
-                  </div>
-              </div>
-            </div>
-            <div class="services col-xl-3 col-md-6 py-3 py-lg-2">
-              <div>
-                <img src="/Rectangle-20.png" class="w-100 img-fluid" alt="card-img"/>
-                  <div class="overlay"></div>
-                  <div class="img-title3">
-                    <h3>Resource & Staffing</h3>
-                  </div>
-              </div>
+            <div class="services col-xl-4 col-md-6 py-3 py-lg-2">
+              <a class="dropdown-item" href="resource_staffing">
+                <div>
+                  <img src="/Rectangle-20.png" class="w-100 img-fluid" alt="card-img"/>
+                    <div class="overlay"></div>
+                    <div class="img-title3">
+                      <h3>Resource & Staffing</h3>
+                    </div>
+                </div>
+              </a>
             </div>
           </div>
+        </div>
         </div>
       </section>
 
@@ -317,7 +325,7 @@ export default function Home() {
                   <div class="col-lg-6 py-md-3">
                     <div>
                       <span>Contact Us</span>
-                      <h1>We're The Largest Events Agency</h1>
+                      <h1>We're The Fastest Growing Agency</h1>
                       <iframe width="100%" height="430"
                         src="https://maps.google.com/maps?width=100%&amp;height=600&amp;hl=en&amp;coord=52.70967533219885, -8.020019531250002&amp;q=1%20Grafton%20Street%2C%20Dublin%2C%20Ireland&amp;ie=UTF8&amp;t=&amp;z=14&amp;iwloc=B&amp;output=embed"></iframe>
                     </div>
