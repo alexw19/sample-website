@@ -8,14 +8,12 @@ const Footer = () => {
                             <div class="col-lg-2 links">
                                 <h3 class="my-md-3">Links</h3>
                                 <ul class="function-change">
-                                    <li>Home</li>
-                                    <li>About Us</li>
-                                    <li>Solutions</li>
-                                    <li>Blogs</li>
-                                    <li>Contact Us</li>
+                                    <a href="/" style={{ textDecoration: 'none' }}><li>Home</li></a>
+                                    <a href="/about" style={{ textDecoration: 'none' }}><li>About Us</li></a>
+                                    <a href="/contact" style={{ textDecoration: 'none' }}><li>Contact Us</li></a>
                                 </ul>
                             </div>
-                            <div class="col-lg-4 ">
+                            {/* <div class="col-lg-4 ">
                                 <h3 class="my-md-3">Recents News</h3>
                                 <div class="row type-change">
                                     <div class=" col-lg-3">
@@ -35,20 +33,19 @@ const Footer = () => {
                                         <span>Fabruary 20, 2022</span>
                                     </div>
                                 </div>
-                            </div>
+                            </div> */}
 
                             <div class="col-md-6 col-lg-3 ">
                                 <h3 class="type-add">Solutions</h3>
                                 <ul class="bottom-text">
-                                    <li>Digital Transformation</li>
-                                    <li>Cyber Security Consulting</li>
-                                    <li>Portfolio Management</li>
-                                    <li>Resource & Staffing</li>
+                                    <a href="/digital_transformation" style={{ textDecoration: 'none' }}><li>Digital Transformation</li></a>
+                                    <a href="/portfolio_management" style={{ textDecoration: 'none' }}><li>Portfolio Management</li></a>
+                                    <a href="/resource_staffing" style={{ textDecoration: 'none' }}><li>Resource & Staffing</li></a>
                                 </ul>
                             </div>
                             <div class="my-md-2 col-md-6 col-lg-3">
-                                <h3 class="list-function">Opening Time</h3>
-                                <p class="bottom-section">Mon - Sat: 8 am - 5 pm, Sunday: CLOSED </p>
+                                <h3 class="list-function">Business Hours</h3>
+                                <p class="bottom-section">9 am - 5 pm</p>
 
                                 <div class="social-media">
                                     <h4>Social Media</h4>
