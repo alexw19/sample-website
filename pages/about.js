@@ -32,7 +32,7 @@ const About = () => {
                         <div class="col-lg-6 py-md-3 d-flex-acenter">
                             <div class="wow fadeInRightBig infinite aboutus-content">
                                 <span>WHO WE ARE</span>
-                                <h1>We're The Largest Business Agency</h1>
+                                <h1>We're The Fastest Growing Agency</h1>
                                 <p class="py-3">We provide advising and now and into the future support for business and
                                     needs, now and into the future.</p>
                                 <p>We provide advising and now and into the future support for business and
