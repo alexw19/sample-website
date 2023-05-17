@@ -109,7 +109,7 @@ export default function Home() {
             <div class="col-xl-4">
               <div>
                 <span>Services</span>
-                <h1>We Served as your wish for success</h1>
+                <h1>We Served as your trusted advisor</h1>
               </div>
             </div>
             <div class="col-xl-6">
