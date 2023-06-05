@@ -21,8 +21,8 @@ const PortfolioManagement = () => {
 
             <section class="digital-trans container-fluid">
                 <div class="row w-100 text-center">
-                    <h3>Coming Soon!</h3>
-                    {/* <div class="col-lg-6 pr-50 ps-0 padd">
+                    {/* <h3>Coming Soon!</h3> */}
+                    <div class="col-lg-6 pr-50 ps-0 padd">
                         <div class="wow fadeInLeftBig infinite" >
                             <img src="/2img.png" class="img-fluid" alt="card-img"/>
                         </div>
@@ -31,18 +31,36 @@ const PortfolioManagement = () => {
                     <div class="col-lg-6 d-flex-acenter position-relative">
                         <div class="wow fadeInRightBig infinite" >
                             <span class="d-block my-lg-3">Portfolio Management</span>
-                            <h1>THE DEFINITION OF PORTFOLIO MANAGEMENT</h1>
-                            <h3>[What is PM?]</h3>
-                            <p class="mb-10 width-75">Portfolio Management is an important to manage the process to determine the
-                                value of organisation and help to achieve the strategic objectives as well as helps to know
-                                the balance across overall portfolio development projects and products. By evolving tech
-                                consulting team has been established the program management plans, process & tools.</p>
+                            {/* <h1>THE DEFINITION OF PORTFOLIO MANAGEMENT</h1>
+                            <h3>[What is PM?]</h3> */}
+                            <p class="mb-10 width-75">What is Project Portfolio Management?  Why is it important?
+
+It is a strategic approach to managing and prioritizing projects, resources, and investments across an organization.
+PPM enables businesses to align their projects with strategic goals, optimize resource allocation, mitigate risks, and maximize the return on investment.
+
+Project Portfolio Management software is critical to help businesses manage risk analysis, budgeting, and resource allocation for project portfolios of all sizes. It automates the process of gathering data from multiple projects, analyzing the collected information, and using the results to streamline project planning, execution, and delivery across portfolios.  
+
+</p><p>Key PPM Benefits Include:</p>
+
+<p>Improved project selection and prioritization based on strategic alignment and resource capacity. </p>
+
+<p>Enhanced visibility into project performance, enabling better decision-making and timely interventions. </p>
+
+<p>Efficient allocation of resources, ensuring optimal utilization and avoiding resource bottlenecks. </p>
+
+<p>Increased project success rates and on-time delivery. </p>
+
+<p>Greater agility and adaptability to changing business priorities and market dynamics. </p>
+
+<p>Effective risk management and mitigation strategies. </p>
+
+<p>Improved communication and collaboration among project teams and stakeholders. </p>
 
                         </div>
                         <div class="shape-1">
                             <img src="/shape.png" class="img-fluid" alt="card-img"/>
                         </div>
-    </div> */}
+    </div>
                 </div>
             </section>
 

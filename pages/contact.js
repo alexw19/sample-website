@@ -21,12 +21,11 @@ const Contact = () => {
                 <div class="container">
                     <div class="text-center contact-address py-4">
                         <div>
-                            <h1>We're The Fastest Growing Agency</h1>
+                            <h1>Get In Touch.</h1>
                         </div>
-                        <div>
-                            <p>It is a long established fact that a reader will be distracted by the
-                                looking at its layout.</p>
-                        </div>
+                        {/* <div>
+                            <p>Next steps for Evolving Tech to be of service to you is to fill out the below information so that our account team can discuss your specific needs with our firm.</p>
+                        </div> */}
                     </div>
                     <div class="row justify-content-center">
                         <div class="col-md-6 col-lg-4 py-3 py-lg-2">
@@ -37,7 +36,7 @@ const Contact = () => {
                                     </div>
                                     <div class="card-body">
                                         <h5 class="card-title">Email Address</h5>
-                                        <p class="card-text">info@evolvingtech.com</p>
+                                        <p class="card-text">torsha.perry@evolvingtechworld.com</p>
                                     </div>
                                 </div>
                             </div>
@@ -74,7 +73,7 @@ const Contact = () => {
                 </div>
             </section>
 
-            <section class="contact-us-section pt-50 pb-50">
+            {/* <section class="contact-us-section pt-50 pb-50">
                 <div class="container">
                     <div class="row contact-form">
                         <div class="col-lg-6 py-md-3">
@@ -141,9 +140,9 @@ const Contact = () => {
             <section>
                 <div class="container-fluid">
                     <iframe width="100%" height="430"
-                        src="https://maps.google.com/maps?width=100%&amp;height=600&amp;hl=en&amp;coord=52.70967533219885, -8.020019531250002&amp;q=1%20Grafton%20Street%2C%20Dublin%2C%20Ireland&amp;ie=UTF8&amp;t=&amp;z=14&amp;iwloc=B&amp;output=embed"></iframe>
+                        src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d4512.029588057844!2d-84.3906914460128!3d33.75419156570551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDQ1JzE2LjQiTiA4NMKwMjMnMTUuNiJX!5e0!3m2!1sen!2sus!4v1686007629640!5m2!1sen!2sus"></iframe>
                 </div>
-            </section>
+            </section> */}
         </Layout>
     )
 }

@@ -21,8 +21,8 @@ const DigitalTransformation = () => {
 
             <section class="digital-trans container-fluid">
                 <div class="row w-100 text-center">
-                    <h3>Coming Soon!</h3>
-                    {/* <div class="col-lg-6 pr-50 ps-0 padd">
+                    {/* <h3>Coming Soon!</h3> */}
+                    <div class="col-lg-6 pr-50 ps-0 padd">
                         <div class="wow fadeInLeftBig infinite" >
                             <img src="/2img.png" class="img-fluid" alt="card-img"/>
                         </div>
@@ -31,20 +31,18 @@ const DigitalTransformation = () => {
                     <div class="col-lg-6 d-flex-acenter position-relative">
                         <div class="wow fadeInRightBig infinite" >
                             <span class="d-block my-lg-3">Digital Transformation</span>
-                            <h1>THE DEFINITION OF DIGITAL TRANSFORMATION</h1>
-                            <h3>[What is Digital Transformation?]</h3>
-                            <p class="mb-10 width-75"> Digital Transformation Consultants with their industry knowledge,
-                                its help you to develop a right DX Framework. It helps to increase the revenues and build
-                                the organisation in a new way. As per the current digital transformation strategy your
-                                business will be maintain a best place in the market position. The emerging technologies
-                                such as augmented intelligence, data analytics and internet of things for boosting your
-                                business.</p>
+                            {/* <h1>THE DEFINITION OF DIGITAL TRANSFORMATION</h1>
+                            <h3>[What is Digital Transformation?]</h3> */}
+                            <p class="mb-10 width-75"> Evolving Tech's Digital Transformation specifically relates to leveraging digital technologies and innovations to drive significant changes across various aspects of your business. 
+                            </p><p>It involves integrating digital tools, processes, and data to enhance operations, customer engagement, and overall business performance. 
+                            </p><p>Digital Transformation often aligns with the broader goals of Business Transformation but centers on the digital aspect. 
+                            </p><p>The primary outcome of Digital Transformation is leveraging digital technologies to optimize existing processes, develop new digital business models, enhance customer experiences, enable data-driven decision-making, and unlock new revenue streams. It focuses on utilizing technology to drive growth, efficiency, and agility within the organization.</p>
 
                         </div>
                         <div class="shape-1">
                             <img src="/shape.png" class="img-fluid" alt="card-img"/>
                         </div>
-                    </div> */}
+                    </div>
                 </div>
             </section>
 

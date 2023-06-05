@@ -10,7 +10,7 @@ export default function Home() {
             <div class="col-lg-6 col-md-12 py-3 py-lg-2 d-flex-acenter">
               <div class="wow fadeInLeftBig infinite">
                 <h1>The Fastest Way to Achieve Success</h1>
-                <p>It is a long esatablished fact that a reader will be distracted by the way</p>
+                {/* <p>It is a long esatablished fact that a reader will be distracted by the way</p> */}
                 <button class="btn primary-btn">Get in Touch <i class="fa fa-arrow-right"
                   aria-hidden="true"></i></button>
               </div>
@@ -35,8 +35,8 @@ export default function Home() {
                   </div>
                   <div class="card-body">
                     <h5 class="card-title">Save Time</h5>
-                    <p class="card-text">We provide advising and support for business and
-                      technology needs, now and into the future.</p>
+                    {/* <p class="card-text">We provide advising and support for business and
+                      technology needs, now and into the future.</p> */}
                   </div>
                 </div>
               </div>
@@ -50,8 +50,8 @@ export default function Home() {
                   </div>
                   <div class="card-body">
                     <h5 class="card-title">Affordable Pricing</h5>
-                    <p class="card-text">We provide support for business and
-                      technology needs, now and into the future.</p>
+                    {/* <p class="card-text">We provide support for business and
+                      technology needs, now and into the future.</p> */}
                   </div>
                 </div>
               </div>
@@ -65,8 +65,8 @@ export default function Home() {
                   </div>
                   <div class="card-body">
                     <h5 class="card-title">Best Strategy</h5>
-                    <p class="card-text">We provide advising and support for business and
-                      technology needs, now and into the future.</p>
+                    {/* <p class="card-text">We provide advising and support for business and
+                      technology needs, now and into the future.</p> */}
                   </div>
                 </div>
               </div>
@@ -169,7 +169,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section class="carousel-section pt-50 pb-50 ">
+      {/* <section class="carousel-section pt-50 pb-50 ">
         <h1 class="text-center">Testimonial</h1>
         <div id="carouselExampleControls" class="carousel slide pt-50" data-bs-ride="carousel">
           <div class="carousel-inner">
@@ -269,7 +269,7 @@ export default function Home() {
                   <div class="dot-next"></div>
                 </button>
               </div>
-            </section>
+            </section> */}
 
             <section class="address-section pt-50 pb-50">
               <div class="container">
@@ -282,7 +282,7 @@ export default function Home() {
                         </div>
                         <div class="card-body">
                           <h5 class="card-title">Email Address</h5>
-                          <p class="card-text">info@evolvingtech.com</p>
+                          <p class="card-text">torsha.perry@evolvingtechworld.com</p>
                         </div>
                       </div>
                     </div>
@@ -319,7 +319,7 @@ export default function Home() {
               </div>
             </section>
 
-            <section class="contact-us-section pt-50 pb-50">
+            {/* <section class="contact-us-section pt-50 pb-50">
               <div class="container">
                 <div class="row">
                   <div class="col-lg-6 py-md-3">
@@ -381,7 +381,7 @@ export default function Home() {
                   </div>
                 </div>
               </div>
-            </section>
+            </section> */}
     </div>
   );
 }

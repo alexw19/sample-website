@@ -21,8 +21,8 @@ const ResourceStaffing = () => {
 
             <section class="digital-trans container-fluid">
                 <div class="row w-100 text-center">
-                    <h3>Coming Soon!</h3>
-                    {/* <div class="col-lg-6 pr-50 ps-0 padd">
+                    {/* <h3>Coming Soon!</h3> */}
+                    <div class="col-lg-6 pr-50 ps-0 padd">
                         <div class="wow fadeInLeftBig infinite">
                             <img src="/2img.png" class="img-fluid" alt="card-img"/>
                         </div>
@@ -31,19 +31,35 @@ const ResourceStaffing = () => {
                     <div class="col-lg-6 d-flex-acenter position-relative">
                         <div class="wow fadeInRightBig infinite">
                             <span class="d-block my-lg-3">Resource & Staffing</span>
-                            <h1>THE DEFINITION OF RESOURCE & STAFFING</h1>
-                            <h3>[What is Resource & Staffing?]</h3>
-                            <p class="mb-10 width-75"> Resource & Staffing is help to solve your staffing problem by
-                                recruiting the potential candidates, they are becoming an asset of your organisation.
-                                Evolving tech is to analyse your talent needs and involving the research in various
-                                domains & sourcing of the candidates. The solutions will be increasing the performance
-                                of employee workflows and boost their organisations HR Operations. </p>
+                            {/* <h1>THE DEFINITION OF RESOURCE & STAFFING</h1>
+                            <h3>[What is Resource & Staffing?]</h3> */}
+                            <p class="mb-10 width-75"> Overview of Resource and Staffing Model </p><p>Our approach is to ensure the availability of skilled and qualified professionals.  It is designed to optimize the allocation of resources successful project delivery and ensure scalability to meet your demands</p>
+
+<p>Talent Acquistion and Recruitment </p><p>
+We have unique recruitment methods, partnerships, and networks that the Evolving Tech utilizes to attract and retain expert talent 
+There is a commitment in our selection process to assess candidates' technical skills, experience, and cultural fit for our company as well as our clients 
+
+</p><p>Scalability and Flexibility</p><p>
+We have the ability to scale resources based on project needs, accommodating fluctuations in workload and project scope.
+There is flexibility in staffing models, such as the option for dedicated teams, extended teams, or project-specific staffing.
+The flexibility to ramp up or down resources efficiently, ensuring optimal resource utilization and cost-effectiveness that is intended to pass along to our clients 
+Evolving Tech fosters collaboration and effective communication among team members, clients, and stakeholders.
+
+</p><p>Client Engagement and Support</p><p>
+
+</p><p>Evolving Tech is committed to understanding and meeting our clients' specific needs.
+We have processes in place to align resources with client requirements and ensure client satisfaction.
+There is a dedicated client support team available to provide ongoing assistance and address any concerns.
+</p><p>Data Privacy and Security:
+
+We maintain a serious commitment to maintaining the confidentiality and security of client information and data.
+Compliance measures, data protection policies are implemented to safeguard client interests.</p>
 
                         </div>
                         <div class="shape-1">
                             <img src="/shape.png" class="img-fluid" alt="card-img"/>
                         </div>
-                    </div> */}
+                    </div>
                 </div>
             </section>
 
